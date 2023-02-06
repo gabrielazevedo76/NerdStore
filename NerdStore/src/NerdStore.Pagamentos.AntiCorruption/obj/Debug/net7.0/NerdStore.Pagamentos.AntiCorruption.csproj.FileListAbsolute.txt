@@ -1,0 +1,17 @@
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.deps.json
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.pdb
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net7.0\NerdStore.Core.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net7.0\NerdStore.Pagamentos.Business.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net7.0\NerdStore.Pagamentos.Business.pdb
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\net7.0\NerdStore.Core.pdb
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\refint\NerdStore.Pagamentos.AntiCorruption.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\NerdStore.Pagamentos.AntiCorruption.pdb
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\net7.0\ref\NerdStore.Pagamentos.AntiCorruption.dll

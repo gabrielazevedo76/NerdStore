@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJ/6peEXl7nXiDshSWEHMJcYS3WeQJN9Lv3KwJcxBuDm3l8j/bpqdeQuAHmbg/vyku7YZ2rsAxJcfGLIX6bcFA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\NerdStore\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriela\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\gabriela\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\gabriela\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

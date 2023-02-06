@@ -1,0 +1,15 @@
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net7.0\NerdStore.Pagamentos.Business.deps.json
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net7.0\NerdStore.Pagamentos.Business.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net7.0\NerdStore.Pagamentos.Business.pdb
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net7.0\NerdStore.Core.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net7.0\NerdStore.Core.pdb
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.csproj.AssemblyReference.cache
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.csproj.CopyComplete
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\refint\NerdStore.Pagamentos.Business.dll
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\NerdStore.Pagamentos.Business.pdb
+D:\Projetos\NerdStore\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net7.0\ref\NerdStore.Pagamentos.Business.dll
